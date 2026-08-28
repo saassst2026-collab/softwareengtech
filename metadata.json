@@ -1,0 +1,6 @@
+{
+  "name": "EngTech Dashboard Hub",
+  "description": "Sistema de Gestão de Segurança e Saúde no Trabalho (SST), eSocial, ASO, Laudos e Documentos Ocupacionais",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
